@@ -1,9 +1,8 @@
 ````bash
 > help --info
-> 
-> 
-> 
-> 
+> Self-confessed geek - teaching my self to code from scratch, at home.
+> Currently comfortable with HTML & CSS, starting to learn JS before moving onto more frontend languages.
+> Working through Frontendmentor challanges 1 by 1 whilst also also studying with TOP.
 ````
 ````javascript
 const aboutMe = {
@@ -14,8 +13,9 @@ const aboutMe = {
                         frontendMentor: "https://www.frontendmentor.io/",
                         100daysCSSChallenge: "https://100dayscss.com/"
                       },
- challengeMental: "I am doing currently working through frontendmentor challenges",
- challengePhysical: "Trying to hit the 1000lb club",
+ hobbies: ["Gym, Coding, Tattoos, Photography, Gaming, Reading, Motorycles"],
+ challengeMental: ["I am doing currently working through frontendmentor challenges"],
+ challengePhysical: ["Trying to hit the 1000lb club"],
  currentOccupation: ["Restauraunt & Hospitality Manager"],
  futureOccupation: ["Front End/Full Stack Developer"],
  };
