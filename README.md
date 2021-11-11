@@ -1,45 +1,25 @@
 ````bash
 > help --info
-> A potterhead and greek mythology enthusianst who mainly programs in Java and has recently ventured out into Python. Is
-> trying out ML to see what all the fuss is about and he might actually ❤ it. Likes solving problems on hackerrank.
-> Currently an undergrad@DTU batch of '21 studying mathematics and computing engineering and teaching java and python
-> to students at What After College.
+> 
+> 
+> 
+> 
 ````
-
 ````javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+const aboutMe = {
+  code: [HTML, CSS, Javascript],
+  toDo: [HTML, CSS, Javascript, Ruby, Python, React, Bootstrap],
+  learningResources: {
+                        theOdinProject: "https://www.theodinproject.com/",
+                        frontendMentor: "https://www.frontendmentor.io/",
+                        100daysCSSChallenge: "https://100dayscss.com/"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
- currentOccupation: ["last year student, open for job opportunities"],
- 
- const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-};
+ challengeMental: "I am doing currently working through frontendmentor challenges",
+ challengePhysical: "Trying to hit the 1000lb club",
+ currentOccupation: ["Restauraunt & Hospitality Manager"],
+ futureOccupation: ["Front End/Full Stack Developer"],
+ };
+
 ````
 
 <!--START_SECTION:waka-->
