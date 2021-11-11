@@ -1,7 +1,7 @@
 ````bash
 > help --info
 > Self-confessed geek - teaching my self to code from scratch, at home.
-> Currently Learning HTML, CSAA & JS before moving onto more frontend languages.
+> Currently Learning HTML, CSS & JS before moving onto more frontend languages.
 > Working through Frontendmentor challanges 1 by 1 whilst also also studying with TOP.
 ````
 ````javascript
