@@ -24,8 +24,8 @@ const aboutMe = {
 ![](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/Code-HTML-blue?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/Code-JS-blue?style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/Tools-GITHUB-blue?style=flat-square&logo=github)
-![](https://img.shields.io/badge/Tools-VSCODE-blue?style=flat-square&logo=VisualStudioCode)
+![](https://img.shields.io/badge/Tools-Github-blue?style=flat-square&logo=github)
+![](https://img.shields.io/badge/Tools-VScode-blue?style=flat-square&logo=VisualStudioCode)
 ![](https://img.shields.io/badge/Tools-Photoshop-blue?style=flat-square&logo=AdobePhotoshop)
 ![](https://img.shields.io/badge/Tools-Lightroom-blue?style=flat-square&logo=AdobeLightroom)
 
