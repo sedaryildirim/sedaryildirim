@@ -21,6 +21,7 @@ const aboutMe = {
  };
 
 ````
+![](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
