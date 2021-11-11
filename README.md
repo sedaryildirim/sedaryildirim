@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-<img src="https://github.com/sedaryildirim/sedaryildirim/blob/main/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/sedaryildirim/sedaryildirim/main/images/stat.svg" alt="Sedar WakaTime Activity"/
 
 <!--START_SECTION:waka-->
 
