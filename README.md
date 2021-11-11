@@ -14,7 +14,7 @@ const aboutMe = {
                         100daysCSSChallenge: "https://100dayscss.com/"
                       },
  hobbies: ["Gym, Coding, Tattoos, Photography, Gaming, Reading, Motorycles"],
- challengeMental: ["I am doing currently working through frontendmentor challenges"],
+ challengeMental: ["I am currently working through frontendmentor challenges"],
  challengePhysical: ["Trying to hit the 1000lb club"],
  currentOccupation: ["Restauraunt & Hospitality Manager"],
  futureOccupation: ["Front End/Full Stack Developer"],
