@@ -30,7 +30,7 @@ const aboutMe = {
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+<p align="center">![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)</p>
 
 **I'm an Early 🐤** 
 
