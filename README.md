@@ -26,7 +26,7 @@ const aboutMe = {
 ![](https://img.shields.io/badge/Code-HTML-blue?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/Code-JS-blue?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/Tools-Github-blue?style=flat-square&logo=github)
-![](https://img.shields.io/badge/Tools-VSCode-blue?style=flat-square&logo=VScode)
+![](https://img.shields.io/badge/Tools-VSCode-blue?style=flat-square&logo=VS code)
 
 
 <!--START_SECTION:waka-->
