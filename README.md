@@ -22,12 +22,10 @@ const aboutMe = {
 
 ````
 ![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/Code-HTML-blue?style=flat-square&logo=html5)
-![](https://img.shields.io/badge/Code-JS-blue?style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/Tools-Github-blue?style=flat-square&logo=github)
-![](https://img.shields.io/badge/Tools-VScode-blue?style=flat-square&logo=VisualStudioCode)
-![](https://img.shields.io/badge/Tools-Photoshop-blue?style=flat-square&logo=AdobePhotoshop)
-![](https://img.shields.io/badge/Tools-Lightroom-blue?style=flat-square&logo=AdobeLightroom)
+![](https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=html5)
+![](https://img.shields.io/badge/-JS-blue?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-Github-blue?style=flat-square&logo=github)
+![](https://img.shields.io/badge/-VScode-blue?style=flat-square&logo=VisualStudioCode)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
