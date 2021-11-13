@@ -23,4 +23,3 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TIMEZONE: "False"
-
