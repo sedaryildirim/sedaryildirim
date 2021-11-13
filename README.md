@@ -30,25 +30,27 @@ const aboutMe = {
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.49% 
-🌆 Daytime    117 commits    ██████████████░░░░░░░░░░░   55.98% 
-🌃 Evening    45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.53% 
+🌞 Morning    47 commits     █████░░░░░░░░░░░░░░░░░░░░   21.66% 
+🌆 Daytime    125 commits    ██████████████░░░░░░░░░░░   57.6% 
+🌃 Evening    45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.74% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       33 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Tuesday      47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.49% 
-Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
-Thursday     49 commits     █████░░░░░░░░░░░░░░░░░░░░   23.44% 
-Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-Saturday     50 commits     ██████░░░░░░░░░░░░░░░░░░░   23.92% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.31%
+Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
+Tuesday      47 commits     █████░░░░░░░░░░░░░░░░░░░░   21.66% 
+Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
+Thursday     49 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58% 
+Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
+Saturday     58 commits     ██████░░░░░░░░░░░░░░░░░░░   26.73% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
 
 ```
 
