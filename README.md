@@ -35,22 +35,22 @@ const aboutMe = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    51 commits     █████░░░░░░░░░░░░░░░░░░░░   21.07% 
-🌆 Daytime    129 commits    █████████████░░░░░░░░░░░░   53.31% 
-🌃 Evening    62 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
+🌞 Morning    51 commits     █████░░░░░░░░░░░░░░░░░░░░   20.99% 
+🌆 Daytime    129 commits    █████████████░░░░░░░░░░░░   53.09% 
+🌃 Evening    63 commits     ██████░░░░░░░░░░░░░░░░░░░   25.93% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-Tuesday      47 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
-Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
-Thursday     49 commits     █████░░░░░░░░░░░░░░░░░░░░   20.25% 
+Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Tuesday      47 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
+Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
+Thursday     49 commits     █████░░░░░░░░░░░░░░░░░░░░   20.16% 
 Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
-Saturday     73 commits     ███████░░░░░░░░░░░░░░░░░░   30.17% 
-Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
+Saturday     73 commits     ███████░░░░░░░░░░░░░░░░░░   30.04% 
+Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.0%
 
 ```
 
