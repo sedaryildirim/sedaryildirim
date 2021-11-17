@@ -11,7 +11,8 @@ const aboutMe = {
   learningResources: {
                         theOdinProject: "https://www.theodinproject.com/",
                         frontendMentor: "https://www.frontendmentor.io/",
-                        100daysCSSChallenge: "https://100dayscss.com/"
+                        100daysCSSChallenge: "https://100dayscss.com/",
+                        udemy/jonasSchmedtmann: "https://www.udemy.com/course/the-complete-javascript-course/"
                       },
  hobbies: ["Gym, Coding, Tattoos, Photography, Gaming, Reading, Motorycles"],
  challengeMental: ["I am currently working through frontendmentor challenges"],
