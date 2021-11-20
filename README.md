@@ -6,8 +6,8 @@
 ````
 ````javascript
 const aboutMe = {
-  code: [HTML, CSS, Javascript],
-  toDo: [HTML, CSS, Javascript, Ruby, Python, React, Bootstrap],
+  currentLearning: [HTML, CSS, Javascript],
+  futureLearning: [Ruby, Python, React, Bootstrap],
   learningResources: {
                         theOdinProject: "https://www.theodinproject.com/",
                         frontendMentor: "https://www.frontendmentor.io/",
@@ -22,10 +22,9 @@ const aboutMe = {
  };
 
 ````
-
+![](https://img.shields.io/badge/Code-HTML-blue?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/Code-SCSS-blue?style=flat-square&logo=Sass)
-![](https://img.shields.io/badge/Code-HTML-blue?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/Code-JS-blue?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/Tools-Github-blue?style=flat-square&logo=github)
 ![](https://img.shields.io/badge/Tools-VSCode-blue?style=flat-square&logo=VScode)
