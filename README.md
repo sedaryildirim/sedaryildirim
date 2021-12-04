@@ -7,7 +7,7 @@
 ````javascript
 const aboutMe = {
   currentLearning: [HTML, CSS, Javascript],
-  futureLearning: [Tailwind CSS, Bootstrap, Vue.JS, Node.JS, React.JS,
+  futureLearning: [Tailwind, Bootstrap, Vue, Node, React],
   learningResources: {
                         frontendMentor: "https://www.frontendmentor.io/",
                         udemy/angelaYu: "udemy.com/course/the-complete-web-development-bootcamp/",
