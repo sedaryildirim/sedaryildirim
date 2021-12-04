@@ -7,15 +7,16 @@
 ````javascript
 const aboutMe = {
   currentLearning: [HTML, CSS, Javascript],
-  futureLearning: [Ruby, Python, React, Bootstrap],
+  futureLearning: [Ruby, Python, React, Bootstrap, Vue, Angular],
   learningResources: {
-                        theOdinProject: "https://www.theodinproject.com/",
                         frontendMentor: "https://www.frontendmentor.io/",
-                        100daysCSSChallenge: "https://100dayscss.com/",
-                        udemy/jonasSchmedtmann: "https://www.udemy.com/course/the-complete-javascript-course/"
+                        udemy/theNetNinja: "https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/",
+                        udemy/jonasSchmedtmann: "https://www.udemy.com/course/the-complete-javascript-course/",
+                        udemy/angelaYu: "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+                        udemy/coltSteele: "https://www.udemy.com/course/the-web-developer-bootcamp/",
                       },
  hobbies: ["Gym, Coding, Tattoos, Photography, Gaming, Reading, Motorycles"],
- challengeMental: ["I am currently working through frontendmentor challenges"],
+ challengeMental: ["I am currently working through my learning resources"],
  challengePhysical: ["Trying to hit the 1000lb club"],
  };
 
