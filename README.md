@@ -2,7 +2,7 @@
 > help --info
 > Self-confessed geek - teaching my self to code from scratch, at home.
 > Currently Learning HTML, CSS & JS before moving onto more frontend languages.
-> Working through Frontendmentor challanges 1 by 1 whilst also also studying with TOP.
+> Working through Frontendmentor challenges 1 by 1 whilst also also studying with TOP.
 ````
 ````javascript
 const aboutMe = {
@@ -15,7 +15,7 @@ const aboutMe = {
                         udemy/jonasSchmedtmann: "udemy.com/course/the-complete-javascript-course/",
                         udemy/theNetNinja: "udemy.com/course/modern-javascript-from-novice-to-ninja/"
                       },
- hobbies: ["Gym, Coding, Tattoos, Photography, Gaming, Reading, Motorycles"],
+ hobbies: ["Gym, Coding, Tattoos, Photography, Gaming, Reading, Motorcycles"],
  challengeMental: ["I am currently working through my learning resources"],
  challengePhysical: ["Trying to hit the 1000lb club"],
  };
