@@ -10,10 +10,10 @@ const aboutMe = {
   futureLearning: [Ruby, Python, React, Bootstrap, Vue, Angular],
   learningResources: {
                         frontendMentor: "https://www.frontendmentor.io/",
-                        udemy/theNetNinja: "udemy.com/course/modern-javascript-from-novice-to-ninja/",
-                        udemy/jonasSchmedtmann: "udemy.com/course/the-complete-javascript-course/",
                         udemy/angelaYu: "udemy.com/course/the-complete-web-development-bootcamp/",
                         udemy/coltSteele: "udemy.com/course/the-web-developer-bootcamp/",
+                        udemy/jonasSchmedtmann: "udemy.com/course/the-complete-javascript-course/",
+                        udemy/theNetNinja: "udemy.com/course/modern-javascript-from-novice-to-ninja/"
                       },
  hobbies: ["Gym, Coding, Tattoos, Photography, Gaming, Reading, Motorycles"],
  challengeMental: ["I am currently working through my learning resources"],
