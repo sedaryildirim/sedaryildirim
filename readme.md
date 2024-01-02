@@ -1,3 +1,4 @@
+'''javascript
 const Sid = {
     code: [Javascript, HTML, CSS],
     resources: {
@@ -13,6 +14,7 @@ const Sid = {
     }
     funFact: "The Ancient Romans used to drop a piece of toast into their wine for good health - hence why we 'raise a toast'. "
 }
+'''
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
