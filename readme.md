@@ -8,9 +8,9 @@ const Sid = {
                       },
     challenge: "I am currently working through various online courses"
     fun: {
-                    dailyUI: https://www.dailyui.co/,
-                    frontendMentor: https://www.frontendmentor.io/,
-                    devChallenges: https://devchallenges.io/,
+                    dailyUI: <a href="https://www.dailyui.co/">dailyUI</a>,
+                    frontendMentor: <a href="https://www.frontendmentor.io/">frontendMentor<a>,
+                    devChallenges: <a href="https://devchallenges.io/">devChallenges</a>,
     }
     funFact: "The Ancient Romans used to drop a piece of toast into their wine for good health - hence why we 'raise a toast'. "
 }
