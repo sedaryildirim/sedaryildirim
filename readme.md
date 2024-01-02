@@ -8,7 +8,7 @@ const Sid = {
                       },
     challenge: "I am currently working through various online courses"
     fun: {
-                    dailyUI: <a href="https://www.dailyui.co/">dailyUI</a>,
+                    dailyUI: [dailyUI](https://www.dailyui.co/),
                     frontendMentor: <a href="https://www.frontendmentor.io/">frontendMentor<a>,
                     devChallenges: <a href="https://devchallenges.io/">devChallenges</a>,
     }
