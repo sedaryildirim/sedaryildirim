@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sid</h1>
-![image](https://github.com/SedarYildirim/SedarYildirim/blob/main/imgs/HuTaoPizza.gif)
-
 <h3 align="center">A passionate (wannabe) frontend developer from the UK self learning from scratch</h3>
+<img src="https://github.com/SedarYildirim/SedarYildirim/blob/main/imgs/HuTaoPizza.gif">
+
 
 ```javascript
 const Sid = {
