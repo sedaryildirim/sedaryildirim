@@ -63,7 +63,8 @@ SedarYildirim            5 mins              ███████████�
 
 
 <!--END_SECTION:waka-->
-<p align="center">
+<div align="center">
   
-![](https://komarev.com/ghpvc/?username=sedaryildirim&style=for-the-badge)
-</p>
+<a href="">![](https://komarev.com/ghpvc/?username=sedaryildirim&style=for-the-badge)</a>
+
+</div>
