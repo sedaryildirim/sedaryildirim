@@ -21,5 +21,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "False"
-          SHOW_COMMIT: "False"
+          SHOW_COMMIT: "True"
           SHOW_SHORT_INFO: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TIMEZONE: "False"
