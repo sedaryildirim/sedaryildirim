@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sid</h1>
+![image](https://github.com/SedarYildirim/SedarYildirim/assets/155425285/ed4adf14-37c1-43a5-8ae8-6db145f2725e)
+
 <h3 align="center">A passionate (wannabe) frontend developer from the UK self learning from scratch</h3>
 
 ```javascript
