@@ -6,14 +6,8 @@ const Sid = {
   code: [HTML, CSS, Javascript],
   sources: {
                         angelaYu: "Angela Yu's Web Developer Bootcamp",
-[Angela Yu's Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-
                         coltSteele: "Colt Steele's Web Developer Bootcamp",
-                        shaunPelling: "Shaun Pelling's Modern Day Javascript",
-                      },
-  challenges: {
-                        frontendMenotorChallenges: https://www.frontendmentor.io/,
-                        devChallenges: https://devchallenges.io/,
+                        shaunPelling: "Shaun Pelling's Modern Day Javascript"
                       }
 ```
 
