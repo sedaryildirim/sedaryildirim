@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sid</h1>
-<h3 align="center">A passionate frontend developer from the UK self learning from scratch</h3>
+<h3 align="center">A passionate (wannabe) frontend developer from the UK self learning from scratch</h3>
 
 ```javascript
 const Sid = {
