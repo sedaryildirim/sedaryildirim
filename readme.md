@@ -1,8 +1,9 @@
+<p align="center">
+<img align="center" src="imgs/HuTaoPizza.gif" alt="Logo">
+</p>
 <h1 align="center">Hi 👋, I'm Sid</h1>
 <h3 align="center">A passionate (wannabe) frontend developer from the UK self learning from scratch</h3>
-<p align="center">
-<img align="center" src="https://github.com/SedarYildirim/SedarYildirim/blob/main/imgs/HuTaoPizza.gif">
-</p>
+
 
 ```javascript
 const Sid = {
