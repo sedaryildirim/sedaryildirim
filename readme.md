@@ -5,13 +5,13 @@
 const Sid = {
   code: [HTML, CSS, Javascript],
   sources: {
-                        angelaYu: Angela Yu's Web Developer Bootcamp,
-                        coltSteele: Colt Steele's Web Developer Bootcamp,
-                        shaunPelling: Shaun Pelling's Modern Day Javascript,
+                        angelaYu: "Angela Yu's Web Developer Bootcamp",
+                        coltSteele: "Colt Steele's Web Developer Bootcamp",
+                        shaunPelling: "Shaun Pelling's Modern Day Javascript",
                       },
   challenges: {
-                        Frontend Mentor Challenges: https://www.frontendmentor.io/,
-                        Dev Challenges: https://devchallenges.io/,
+                        frontendMenotorChallenges: https://www.frontendmentor.io/,
+                        devChallenges: https://devchallenges.io/,
                       }
 ```
 
