@@ -3,7 +3,7 @@ name: wakatime-stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 9 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
@@ -25,3 +25,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_TIMEZONE: "False"
+          SHOW_UPDATED_DATE: "False"
