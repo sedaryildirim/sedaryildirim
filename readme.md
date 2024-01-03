@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sid</h1>
 <h3 align="center">A passionate (wannabe) frontend developer from the UK self learning from scratch</h3>
-![image](https://github.com/SedarYildirim/SedarYildirim/assets/155425285/24d937f7-14b4-49e3-aae6-0547c103c0cf)
 
 ```javascript
 const Sid = {
