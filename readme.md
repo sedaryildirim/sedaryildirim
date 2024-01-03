@@ -20,8 +20,7 @@ const Sid = {
 
 <pre>
     💻 Frontend Development • UI/UX 
-    🎮 Games • MMORPG • Anime
-    📖 WH40k • HH 
+    🎮 Games • MMORPGs • Anime • WH40k • HH 
     💪 Scuba Diving • Snowboarding • Motorbikes • Gym
 </pre>
 
