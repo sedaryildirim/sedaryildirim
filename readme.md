@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Sid</h1>
+<h3 align="center">A passionate frontend developer from the UK self learning from scratch</h3>
+
+```javascript
+const Sid = {
+  code: [HTML, CSS, Javascript],
+  sources: {
+                        angelaYu: [Angela Yu's Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/),
+                        coltSteele: [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/),
+                        shaunPelling: [Shaun Pellings Modern Javascript](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)
+                      },
+ challenges: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
