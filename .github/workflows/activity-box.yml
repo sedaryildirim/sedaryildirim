@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: sedaryildirim
-          GIST_ID: gist:3bf9073d1ab711278952957837892326
+          GIST_ID: 92e14b6da2fff6a9076d2e126e293d5f 
