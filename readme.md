@@ -29,9 +29,6 @@ const Sid = {
     💪 Scuba Diving • Snowboarding • Motorbikes • Gym
 </pre>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
