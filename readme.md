@@ -12,6 +12,7 @@ const Sid = {
                         angelaYu: "Angela Yu's Web Developer Bootcamp",
                         coltSteele: "Colt Steele's Web Developer Bootcamp",
                         shaunPelling: "Shaun Pelling's Modern Day Javascript"
+                         frontendMentor: "Coding Challenges"
                       }
 ```
 
@@ -25,7 +26,7 @@ const Sid = {
 
 <pre>
     💻 Frontend Development • UI/UX 
-    🎮 Games • MMORPGs • Anime • WH40k • HH 
+    🎮 Gaming • MMORPGs • Anime • WH40k
     💪 Scuba Diving • Snowboarding • Motorbikes • Gym
 </pre>
 
