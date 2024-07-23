@@ -11,8 +11,8 @@ const Sid = {
   sources: {
                         angelaYu: "Angela Yu's Web Developer Bootcamp",
                         coltSteele: "Colt Steele's Web Developer Bootcamp",
-                        shaunPelling: "Shaun Pelling's Modern Day Javascript"
-                         frontendMentor: "Coding Challenges"
+                        shaunPelling: "Shaun Pelling's Modern Day Javascript",
+                        frontendMentor: "Coding Challenges"
                       }
 ```
 
