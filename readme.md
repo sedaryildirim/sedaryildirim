@@ -56,10 +56,10 @@ Sunday                   96 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-startbootstrap-grayscale-5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
