@@ -56,10 +56,10 @@ Sunday                   23 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rest-list                1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
