@@ -31,6 +31,37 @@ const Sid = {
 </pre>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+🌆 Daytime                109 commits         ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌃 Evening                109 commits         ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Tuesday                  32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Friday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Saturday                 49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Sunday                   57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
