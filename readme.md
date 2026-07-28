@@ -31,6 +31,8 @@ const Sid = {
 </pre>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -60,6 +62,12 @@ No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
