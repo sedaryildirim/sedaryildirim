@@ -31,45 +31,6 @@ const Sid = {
 </pre>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-🌆 Daytime                146 commits         ███████████░░░░░░░░░░░░░░   42.20 % 
-🌃 Evening                141 commits         ██████████░░░░░░░░░░░░░░░   40.75 % 
-🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Tuesday                  78 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Wednesday                91 commits          ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-Thursday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Friday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Saturday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
