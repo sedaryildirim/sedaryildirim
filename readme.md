@@ -36,21 +36,21 @@ const Sid = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-🌆 Daytime                318 commits         █████████████░░░░░░░░░░░░   52.13 % 
-🌃 Evening                192 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
-🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+🌞 Morning                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+🌆 Daytime                326 commits         █████████████░░░░░░░░░░░░   52.75 % 
+🌃 Evening                192 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Tuesday                  167 commits         ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-Wednesday                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Thursday                 44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Friday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Saturday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Sunday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Monday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Tuesday                  175 commits         ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Wednesday                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Thursday                 44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Friday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Saturday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Sunday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 
 
